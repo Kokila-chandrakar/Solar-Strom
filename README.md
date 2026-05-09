@@ -1,1 +1,1 @@
-# Solution Challenge!
+# Solution Challenge
