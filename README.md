@@ -150,3 +150,7 @@ This system helps:
 This project is licensed under the MIT License.
 
 ---
+
+## 💡 Inspiration
+
+Inspired by the growing challenge of space debris management and the need for safer satellite operations.
