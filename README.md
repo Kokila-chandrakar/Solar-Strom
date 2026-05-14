@@ -6,6 +6,17 @@ This project was developed as part of a solution challenge to improve satellite 
 
 ---
 
- 
+ ## 🚀 Features
+
+* 🌍 Real-time satellite visualization using CesiumJS
+* ⚠️ Collision prediction and risk analysis
+* 📊 Interactive dashboard with analytics
+* 🛰️ Live orbital tracking system
+* 📈 Space traffic monitoring
+* 🔄 Full-stack architecture with frontend and backend
+* 🐳 Docker support for easy deployment
+
+---
+
 
 
