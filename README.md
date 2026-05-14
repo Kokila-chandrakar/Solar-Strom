@@ -79,6 +79,14 @@ npm run dev
 
 Frontend runs on:
 
+### 3️⃣ Setup Backend
+
+```bash
+cd backend
+pip install -r requirements.txt
+python init_db.py
+```
+
 ```bash
 http://localhost:5173
 ```
