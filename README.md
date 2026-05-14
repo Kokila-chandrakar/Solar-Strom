@@ -92,3 +92,11 @@ http://localhost:5173
 ```
 
 ---
+
+Run the backend server:
+
+```bash
+python app.py
+```
+
+---
