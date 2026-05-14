@@ -76,3 +76,11 @@ cd frontend
 npm install
 npm run dev
 ```
+
+Frontend runs on:
+
+```bash
+http://localhost:5173
+```
+
+---
