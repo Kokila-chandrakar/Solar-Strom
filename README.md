@@ -18,5 +18,15 @@ This project was developed as part of a solution challenge to improve satellite 
 
 ---
 
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React + TypeScript
+* Vite
+* CesiumJS
+* Resium
+* Recharts
+* Axios
 
 
