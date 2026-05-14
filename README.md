@@ -42,3 +42,18 @@ This project was developed as part of a solution challenge to improve satellite 
 * Python
 * Flask/FastAPI (depending on implementation)
 * SQLite / Database support
+
+## 📂 Project Structure
+
+```bash
+satellite-collision-system/
+│
+├── frontend/          # React frontend application
+├── backend/           # Backend APIs and database logic
+├── docker-compose.yml
+├── Makefile
+├── run.sh
+└── README.md
+```
+
+---
