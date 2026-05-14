@@ -57,3 +57,14 @@ satellite-collision-system/
 ```
 
 ---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/satellite-collision-system.git
+cd satellite-collision-system
+```
+
+---
