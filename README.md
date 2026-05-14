@@ -119,3 +119,16 @@ Add your project screenshots here.
 ```
 
 ---
+
+## 🎯 Problem Statement
+
+Thousands of satellites orbit Earth every day, increasing the risk of collisions and dangerous space debris.
+
+This system helps:
+
+* Predict possible satellite collisions
+* Improve monitoring of orbital objects
+* Support safer space missions
+* Provide visualization for analysis and research
+
+---
