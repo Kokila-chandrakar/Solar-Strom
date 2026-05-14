@@ -68,3 +68,11 @@ cd satellite-collision-system
 ```
 
 ---
+
+### 2️⃣ Install Frontend Dependencies
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
