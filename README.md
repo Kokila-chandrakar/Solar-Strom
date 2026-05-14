@@ -29,6 +29,14 @@ This project was developed as part of a solution challenge to improve satellite 
 * Recharts
 * Axios
 
+### DevOps & Tools
+
+* Docker
+* Docker Compose
+* Makefile
+* Git & GitHub
+
+---
 ### Backend
 
 * Python
