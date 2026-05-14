@@ -144,3 +144,9 @@ This system helps:
 ---
 
 ---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
