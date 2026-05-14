@@ -29,4 +29,8 @@ This project was developed as part of a solution challenge to improve satellite 
 * Recharts
 * Axios
 
+### Backend
 
+* Python
+* Flask/FastAPI (depending on implementation)
+* SQLite / Database support
