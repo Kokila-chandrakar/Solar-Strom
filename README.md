@@ -108,3 +108,14 @@ docker-compose up --build
 ```
 
 ---
+
+## 📸 Screenshots
+
+Add your project screenshots here.
+
+```bash
+/assets/dashboard.png
+/assets/visualization.png
+```
+
+---
