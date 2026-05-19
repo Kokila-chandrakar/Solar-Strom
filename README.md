@@ -63,7 +63,7 @@ satellite-collision-system/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/satellite-collision-system.git
+git clone https://github.com/Kokila-chandrakar/Solution-challenge-2026.git
 cd satellite-collision-system
 ```
 
