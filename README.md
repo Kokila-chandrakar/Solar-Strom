@@ -125,7 +125,7 @@ Used for anomaly classification and solar storm detection.
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/vrxayush/SolarStrom.git
+git clone [https://github.com/Kokila-chandrakar/Solar-Strom]
 cd SolarStrom
 ```
 
