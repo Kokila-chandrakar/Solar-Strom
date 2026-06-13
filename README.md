@@ -171,8 +171,6 @@ http://localhost:8000
 
 Kokila Chandrakar
 
-
 B.Tech CSE (AI & ML)
-
 
 Passionate about Full-Stack Development, AI & Cloud Computing, Software Development
