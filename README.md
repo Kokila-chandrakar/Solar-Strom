@@ -169,8 +169,6 @@ http://localhost:8000
 # 👨‍💻 Author
 
 
-Kokila Chandrakar
-
-B.Tech CSE (AI & ML)
-
+Kokila Chandrakar    
+B.Tech CSE (AI & ML)   
 Passionate about Full-Stack Development, AI & Cloud Computing, Software Development
